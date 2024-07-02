@@ -1,0 +1,6 @@
+# Auto generated files with errors to ignore.
+# Remove from this list as you refactor files.
+---
+ignore:
+- lib/broken_on_purpose_but_todo_ignored.rb:
+  - Style/StringLiterals
